@@ -17,3 +17,16 @@ Phillip Gomes Câmara - 321127398
 Elerson Silva Evangelista - 321113627
 Francy Brandão Miranda - 
 Lucas 
+
+
+
+Casos de uso do Projeto
+
+
+![casos de uso](https://user-images.githubusercontent.com/89428033/144653101-56c44804-6d25-4e8e-8feb-1d98fcce01e0.PNG)
+
+
+Diagrama de Classes do Projeto
+
+
+![classes dd](https://user-images.githubusercontent.com/89428033/144653150-7168f87f-54ee-4f0c-88d7-23a8a1b3be62.PNG)
